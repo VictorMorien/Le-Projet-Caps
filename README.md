@@ -36,8 +36,8 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Gallery</a></li>
+        <li><a href="#">About us</a></li>
+        <li><a href="#">Our hats</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -50,16 +50,16 @@
 <div class="jumbotron">
   <div class="container text-center">
     <h1>My Portfolio</h1>      
-    <p>Some text that represents "Me"...</p>
+    <p>A new hat for a new day...</p>
   </div>
 </div>
   
 <div class="container-fluid bg-3 text-center">    
-  <h3>Some of my Work</h3><br>
+  <h3>What is new</h3><br>
   <div class="row">
     <div class="col-sm-3">
-      <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Hat Stetson Rector Clementine</p>
+      <img src="https://media2.chapellerie-traclet.com/34122-large/casquette-stetson-rector-clementine.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
       <p>Some text..</p>
@@ -80,7 +80,7 @@
   <div class="row">
     <div class="col-sm-3">
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="https://www.pubavenue.com/Assets/template-img/Photo-produit/kp130-10414/HD/casquette-lisere-contraste-publicitaire-promotionnelle-personnalisee-1-1.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
       <p>Some text..</p>
