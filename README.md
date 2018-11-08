@@ -1,7 +1,7 @@
 Caps Project store pour l'année de BBA4
 
 <!doctype html>
-<link rel="stylesheet" type="text/css" href="CSS1.css">
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
