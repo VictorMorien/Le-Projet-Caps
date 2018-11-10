@@ -282,11 +282,16 @@ h7 {
 	border-style:inset;
 	background-color: whitesmoke;
 }
-#mainWrapper footer div {
-	width: 100%;
-	margin-left: -16px;
-	text-align: justify;
-	padding-bottom: 16px;
-	overflow: auto;	
-
+.copyright {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #010101;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+}
 #menu
