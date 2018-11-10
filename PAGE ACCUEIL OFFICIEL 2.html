@@ -22,7 +22,7 @@
   <!-- Navigation -->
   <header> 
 	  <a class="navbar-brand" href="PAGE ACCUEIL OFFICIEL 2.html">
-		<img src="images/image logo caps.png" width="120" height="90" alt="">
+		<img src="image logo caps.png" width="120" height="90" alt="">
 		
     </a>
     <nav>
@@ -34,23 +34,23 @@
     </nav>
   </header>
   <!-- Hero Section -->
-  <img src="images page accueil/andreacaps.jpg" width="100%" height="auto" alt=""/>
+  <img src="andreacaps.jpg" width="100%" height="auto" alt=""/>
   <!-- More Info Section -->
   <footer>
     <article class="footer_column">
       <h2>NEWS ARRIVALS</h2>
-      <img src="images page accueil/man05caps.jpg" width="400" height="200" alt=""/>
+      <img src="man05caps.jpg" width="400" height="200" alt=""/>
       <p>Take a look to the news arrivals of our caps. Find the cap that fit for you and enjoy the promotions for this Christmas.</p>
     </article>
     <article class="footer_column">
       <h2>CUSTOM YOUR OWN CAP</h2>
-      <img src="images page accueil/man04caps.jpg" width="400" height="200" alt=""/>
+      <img src="man04caps.jpg" width="400" height="200" alt=""/>
       <p>Design your own cap on CAPiD. Browse by size, style or color. Delivered in 3-5 weeks.</p>
     </article>
   </footer>
 <footer>
     <article class="footer_column">
-     <img src="images page accueil/man02bcaps.jpg" width="400" height="200" alt=""/>
+     <img src="man02bcaps.jpg" width="400" height="200" alt=""/>
     </article>
     <article class="footer_column">
       <h2>CAP'S X Asian artist (Oda/87MM/K.Agato) </h2>
