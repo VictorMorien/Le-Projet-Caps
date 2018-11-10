@@ -281,6 +281,12 @@ h7 {
 	border-width: 2px;
 	border-style:inset;
 	background-color: whitesmoke;
-	
+}
+#mainWrapper footer div {
+	width: 100%;
+	margin-left: -16px;
+	text-align: justify;
+	padding-bottom: 16px;
+	overflow: auto;	
 
 #menu
